@@ -6,6 +6,10 @@ Avilable Ads...
 <br>
 1 - Intersitial Ad
 <br>
-More Ads Code Update in next 4-5 days....
+2 - App Open Ad
 <br>
-Stay Updated.
+3 - Native Ad
+<br>
+4 - Banner AD
+<br>
+<br>
