@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.ads.nativead.NativeAdView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/nativeAdView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.google.android.gms.ads.nativead.MediaView
+        android:id="@+id/mediaView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+</com.google.android.gms.ads.nativead.NativeAdView>
